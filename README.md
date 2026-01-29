@@ -1,2 +1,3 @@
-# Trashbreed.github.io
-This is a repository 
+jekyll-theme-minial
+TrashBreed's Portfolio
+This is my porject update for my portfolio
